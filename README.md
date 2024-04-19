@@ -1,4 +1,4 @@
-# Chat App
+# Java Chat Window
 
 To run project, run `ChatServer.java` and also `ChatClient.java` at the same time. Multiple `ChatClient.java` windows can be opened at the same time.
 
